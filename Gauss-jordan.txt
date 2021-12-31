@@ -1,3 +1,7 @@
+using   decimal   basic
+rem   english version  download  from  https://decimalbasic.ninja-web.net/EnglishInstallerWin.htm
+
+
 DIM   a(3,4)
 
 
